@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.env
+
+# Dataset e dados pesados
+data/
+datasets/
+
+# Modelos grandes
+*.pt
+*.h5
+*.ckpt
+
+# Configs locais
+*.yaml
